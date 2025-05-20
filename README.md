@@ -1,11 +1,8 @@
-<!--<img src="https://github.com/RatulHasan/RatulHasan/assets/14246834/49c526be-dc2c-4d6c-befb-47cb1bd1e375">-->
-<p align="center">
-  <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
-</p>
 
-### Hi there,Tamima  – Software Engineer | AWS Certified Solutions Architect – Associate | AI Enthusiast
 
-Results-driven software engineer with 8+ years of experience in designing and developing scalable, maintainable applications. Specialized in AI automation, Shopify app development, WordPress plugins, CI/CD automation, and e-commerce solutions. Passionate about building high-performance applications that drive business success.
+### Hi there,Tamima Binte Mannan  – Software Engineer
+
+Results-driven software engineer with 7+ years of experience in designing and developing scalable, maintainable applications. Specialized in AI automation, Shopify app development, WordPress plugins, CI/CD automation, and e-commerce solutions. Passionate about building high-performance applications that drive business success.
 
 ---
 
@@ -148,43 +145,36 @@ A product review app for the Shopify platform.
 </div>
 
 </td></tr></table>  
-<!-- <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" /></a>
-<img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" /></a>
-<br/> -->
 <h3 align="left"> 🚀 GitHub Dashboard  </h3>
 <p>
-  <a href="https://www.ratulhasan.com" target="_blank" style="display: block" align="center">
+  <a href="#" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @RatulHasan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=light" width="771" height="auto">
+    <img alt="Dashboard stats of" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 </p>
 <h3 align="left"> 🏆 GitHub Trophies  </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ratulhasan&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Contact Me
 
 You can reach out to me through the following platforms:
 
 <div align="center">
-    <a href="https://ratulhasan.com" target="_blank">
-        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=brave" alt="Website"/>
-    </a>
-    <a href="mailto:tanjilhasanratul@gmail.com">
+    <a href="#">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/ratulhasan/" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/ratulhasasn" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://x.com/meratulhasan" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://www.facebook.com/TanjilHasanRatul" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
 </div>
