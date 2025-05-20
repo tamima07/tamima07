@@ -26,11 +26,6 @@ An email marketing platform for WordPress users.
 - Tech: Laravel, Node.js, Vue.js, MySQL, Redis, GCP, Docker, WordPress
 - Features: Drag-and-drop email builder, campaign management, analytics
 
-### 🏬 [Dokan](https://dokan.co/wordpress/)
-A multi-vendor WooCommerce solution.
-- Tech: PHP, WordPress Plugin Development
-- Features: Min-Max Product Restrictions, Request a Quote, Bulk Vendor Product Edit
-
 ### 📚 [weDocs AI](https://wedocs.co/ai-chatbot/)
 AI-powered knowledge base and documentation platform.
 - Tech: Python (Flask), PgVector, OpenAI, PHP, WordPress
