@@ -16,24 +16,8 @@ Results-driven software engineer with 7+ years of experience in designing and de
 
 ---
 
-## 🏆 Notable Projects
 
 
----
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.credly.com/badges/e2a93551-6153-4eca-af1c-06b2035ec3fe/public_url" rel="nofollow" target="_blank">
-            <img src="https://github.com/user-attachments/assets/9892bb28-5a68-4393-b5a0-6b9ab9ed52bb" style="max-width: 100%;">
-        </a>
-        <h4 class="heading-element">AWS Certified Solutions Architect – Associate</h4>
-      </td>
-    </tr>
-  </tbody>
-</table>
 <h3 align="left"> 🔧 Technologies & Tools  </h3>
 <table><tr><td valign="top" width="33%">
 
